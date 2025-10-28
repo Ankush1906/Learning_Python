@@ -11,12 +11,12 @@ class BankAccount:
 
 acc = BankAccount(5000)
 acc.deposit(2000)
-print(acc.get_balance())   # ✅ 7000
+print(acc.get_balance())   
 print(acc.__balance)
 
 
 
-#         class Person:
+# class Person:
 #   def __init__(self, name, age):
 #     self.name = name
 #     self.__age = age # Private property
