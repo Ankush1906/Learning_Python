@@ -1,0 +1,8 @@
+I am learning programming.  
+#Python is an amazing language.  
+Today I went for a walk.  
+#I solved a coding problem in Python.  
+The weather is nice today.  
+My friend loves playing football.  
+Python can be used for web development.  
+Reading books is my hobby.  
